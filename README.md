@@ -1,7 +1,4 @@
 ## Bigdata 2020
-
-# Dokumentasi Tugas 6
-
 # Dokumentasi MLlib model to PMML KNIME
 
 # Business Understanding (MLib) 
